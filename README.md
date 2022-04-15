@@ -5,8 +5,8 @@ My name is Nguyen Ly and I am a senior at the University of Massachusetts Boston
     
 ### Programming Languages & Skills
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="60" height="60"> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/141px-Java_programming_language_logo.svg.png"  width="35" height = "60"> &nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png?20201023095457" width="55" height = "50" > &nbsp; 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png?20160212050515" width="50" height = "55" > &nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png?20201023095457" width="50" height = "55" > &nbsp; 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png?20160212050515" width="55" height = "55" > &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/800px-LaTeX_logo.svg.png?20210414121601"  width="85" height = "45"> &nbsp; <img src="https://hackr.io/tutorials/sql/logo-sql.svg?ver=1610118638" width="60" height="60"> 
 
 
