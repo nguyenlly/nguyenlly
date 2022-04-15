@@ -4,12 +4,12 @@ My name is Nguyen Ly and I am a senior at the University of Massachusetts Boston
 
 ### Projects 
 
-#### Analysis of Spotify Million Playlist Dataset Challenge :musical_note:
+#### Analysis of Spotify Million Playlist Dataset Challenge :musical_note: | [GitHub Repostitory](https://github.com/nguyenlly/math448_proj)
 - Designed dataset and converted JSON files to csv from Spotify Million Playlist Dataset Challenge using Python and Excel.
 - Cleaned, merged, and validated multiple datasets of over 2.2 million data points from Spotify and Kaggle using R.
 - Utilized statistical methods such as ggplot, scatterplot, correlation test, chi-square test, permutation test, ANOVA test, and linear regression analysis to determine which metrics can be utilized to measure user interaction and music recommendation.
 
-#### Analysis of Marvel TV Series :tv:
+#### Analysis of Marvel TV Series :tv: | [GitHub Repostitory](https://github.com/nguyenlly/math345_proj)
 - Collected, cleaned, and validated data from IMBD, Rotten Tomatoes, Wikipedia, and Mergent Online using Excel and R.
 - Designed and implemented a statistical analysis to cross-examined critics and audience scores from IMBD and Rotten Tomatoes
 with character appearance and viewing method (streaming services or broadcasting).
