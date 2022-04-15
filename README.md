@@ -31,6 +31,7 @@ significance due to the small sample size.
 &nbsp; &nbsp; 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/800px-LaTeX_logo.svg.png?20210414121601"  width="85" height = "45"> &nbsp; &nbsp; 
 <img src="https://hackr.io/tutorials/sql/logo-sql.svg?ver=1610118638" width="60" height="60"> 
+<img src="https://user-images.githubusercontent.com/22554783/163525976-93ed22bb-f2a7-4886-9197-2586dfa2583c.png" width="80" height="60"> 
 
 
 ## Connect With Me:
