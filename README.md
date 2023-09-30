@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Nguyen Ly and I am a senior at the University of Massachusetts Boston studying computational mathematics with a concentration in computer science. 
+My name is Nguyen Ly and I am a recent graduate at the University of Massachusetts Boston studying mathematics with a concentration in computational mathematics and a minor in computer science. 
 
 ### Projects 
 
@@ -14,6 +14,7 @@ My name is Nguyen Ly and I am a senior at the University of Massachusetts Boston
 - Designed and implemented a statistical analysis to cross-examined critics and audience scores from IMBD and Rotten Tomatoes
 with character appearance and viewing method (streaming services or broadcasting).
 - Utilized statistical methods to create a predictive model for the success of newly released series in the Marvel Cinematic Universe.
+  
 #### Social Behavioral Analysis of Penguins at Aquarium of the Pacific :penguin:
 - Collected random observations of penguin preening using a live webcam for 30-minute intervals every day for two months.
 - Used penguin profiles to differentiate penguins to categorize penguin preening with social relationships within the colony.
