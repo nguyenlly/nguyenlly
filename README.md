@@ -21,15 +21,6 @@ with character appearance and viewing method (streaming services or broadcasting
 - Used packages such as mosaic to analyze data through correlation, hypothesis, and ANOVA testing validity of data and its
 significance due to the small sample size.
 
-    
-### Programming Languages & Skills
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="60" height="60"> &nbsp; &nbsp; 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png?20160212050515" width="55" height = "55" > 
-&nbsp; &nbsp; 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/800px-LaTeX_logo.svg.png?20210414121601"  width="85" height = "45"> &nbsp; &nbsp; 
-<img src="https://hackr.io/tutorials/sql/logo-sql.svg?ver=1610118638" width="60" height="60"> 
-&nbsp; &nbsp; 
-<img src="https://user-images.githubusercontent.com/22554783/163525976-93ed22bb-f2a7-4886-9197-2586dfa2583c.png" width="100" height="45"> 
 
 
 ## Connect With Me:
